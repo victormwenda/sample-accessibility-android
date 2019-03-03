@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeyboardListener</string>
+    <string name="keyboad_accessibility">Keyboard Accessibility</string>
+</resources>
